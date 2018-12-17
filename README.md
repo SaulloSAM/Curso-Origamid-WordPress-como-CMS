@@ -5,6 +5,9 @@ Para este curso, utilizamos um website em HTML puro e transformamos ele em um Te
 
 O curso online ministrado por [Origamid](https://www.origamid.com).
 
-| Plugins Utilizados       |
+| Informações do Curso     |
 | ------------------------ |
-| Advanced Custom Field    |
+| 46 Aulas                 |
+| 9 Horas                  |
+| Html, CSS, PHP           |
+| CMS - WordPress          |
